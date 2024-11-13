@@ -42,7 +42,7 @@ public class AgeScholar {
 			System.out.println("According to you Age Group you Scholarship amount is Rs.3,000/-");
 			
 		else if (Age.equalsIgnoreCase("Adult"))
-			System.out.println("According to your Age Group you Scholarship amount is Rs.5,000/-");
+			System.out.println("According to your Age Group you Scholarship amount is Rs.6,000/-");
 			
 			
 		else
